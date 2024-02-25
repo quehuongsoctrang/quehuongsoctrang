@@ -50,7 +50,7 @@
       <optiongroup name="menuoptions">
         <options>
           <option name="flow" value="free" />
-          <option name="wraplistitems" value="false" />
+          <option name="wraplistitems" value="true" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
           <option name="autonumber" value="false" />
@@ -1603,9 +1603,9 @@
   <nav_data>
     <outline>
       <links>
-        <slidelink slideid="_player.5ulP2W168Ch" displaytext="Untitled Scene" expand="true" type="slide">
+        <slidelink slideid="_player.5ulP2W168Ch" displaytext="Tài liệu Giáo dục địa phương tỉnh Sóc Trăng - Lớp 6" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.5ulP2W168Ch.6f65X4AcQtU" displaytext="QUÊ HƯƠNG SÓC TRĂNG" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.6f65X4AcQtU" displaytext="Bài 2. Truyện cổ dân gian tỉnh Sóc Trăng" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
