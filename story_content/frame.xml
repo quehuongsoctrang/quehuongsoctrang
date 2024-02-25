@@ -81,7 +81,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1606,6 +1606,8 @@
         <slidelink slideid="_player.5o4jssuuvxv" displaytext="Bài 1. Lễ hội truyền thống ở tỉnh Sóc Trăng " expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5o4jssuuvxv.6jTveAS83yW" displaytext="Video giới thiệu" expand="false" type="slide" />
+            <slidelink slideid="_player.5o4jssuuvxv.6bWK5gLg1VA" displaytext="Câu hỏi 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5o4jssuuvxv.5sgU18tlH7X" displaytext="Câu hỏi 2" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.5ulP2W168Ch" displaytext="Bài 2. Truyện cổ dân gian tỉnh Sóc Trăng" expand="true" type="slide">
@@ -1618,7 +1620,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/6jBLumg2FZJ.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
+      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/5k29n0HPSqh.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
     </resources>
   </resource_data>
   <transcript_data />
