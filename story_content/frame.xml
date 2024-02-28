@@ -1641,6 +1641,11 @@
         <slidelink slideid="_player.5ulP2W168Ch" displaytext="Bài 2. Truyện cổ dân gian tỉnh Sóc Trăng" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.5ulP2W168Ch.6f65X4AcQtU" displaytext="Video giới thiệu" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.5WbHUVJ0ZZM" displaytext="Câu hỏi 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.6FGNpgEsd26" displaytext="Câu hỏi 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.6XHr0uJDGwM" displaytext="Câu hỏi 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.68Ovp7aRWrn" displaytext="Câu hỏi 4" expand="false" type="slide" />
+            <slidelink slideid="_player.5ulP2W168Ch.5ghAwC8vERv" displaytext="Câu hỏi 5" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
@@ -1648,7 +1653,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/6qQmtn3FoCw.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
+      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/6fFCHcLKK6C.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
     </resources>
   </resource_data>
   <transcript_data />
