@@ -1648,12 +1648,62 @@
             <slidelink slideid="_player.5ulP2W168Ch.5ghAwC8vERv" displaytext="Câu hỏi 5" expand="false" type="slide" />
           </links>
         </slidelink>
+        <slidelink slideid="_player.6fQJrkFI9BU" displaytext="Bài 3. Vùng đất Sóc Trăng từ thế kỉ I đến thế kỉ X" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6fQJrkFI9BU.5a37W8Ay9Bx" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6TjDMmpUgFd" displaytext="Bài 4. Vị trí địa lí và phạm vi lãnh thổ tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6TjDMmpUgFd.5gTYSYxqODu" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5ZYvUY31g5s" displaytext="Bài 5. Điều kiện tự nhiên và tài nguyên thiên nhiên tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5ZYvUY31g5s.5vzTbkOlSD0" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5qGPtG3T5DI" displaytext="Bài 6. Một số danh lam thắng cảnh tự nhiên ở tỉnh Sóc Trăng " expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5qGPtG3T5DI.6jLhR4XWQ8p" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.68BONE0OUFW" displaytext="Bài 7. Quê hương Sóc Trăng đổi mới" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.68BONE0OUFW.5mthLng1sqf" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.671kgAscDEE" displaytext="Bài 8. Khái quát các nghề truyền thống ở tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.671kgAscDEE.6pY4YXHpQAq" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5sAcSRpLyLr" displaytext="Bài 9. Đoàn kết các dân tộc trên địa bàn tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5sAcSRpLyLr.6QRyQcIfGCZ" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6JaBmc6dKbd" displaytext="Bài 10. Văn hoá ứng xử trong gia đình ở tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6JaBmc6dKbd.6EwWD0K6sk9" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5zS0r3V5rkA" displaytext="Bài 11. Bảo tồn thiên nhiên ở tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5zS0r3V5rkA.6gCyK3Ak8C2" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6ChqvKX0zIT" displaytext="Bài 12. Bảo vệ động vật hoang dã ở tỉnh Sóc Trăng" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6ChqvKX0zIT.67C6qqRxXt5" displaytext="Video giới thiệu" expand="false" type="slide" />
+          </links>
+        </slidelink>
       </links>
     </outline>
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/6fFCHcLKK6C.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
+      <resource url="story_content/external_files/TAI LIEU GIAO DUC DIA PHUONG TINH SOC TRANG LOP 6.pdf" image="story_content/6E6B5PgdHJA.png" title="T&amp;#224;i liệu Gi&amp;#225;o dục địa phương tỉnh S&amp;#243;c Trăng - Lớp 6" />
     </resources>
   </resource_data>
   <transcript_data />
